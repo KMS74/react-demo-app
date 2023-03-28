@@ -1,0 +1,7 @@
+.my-card {
+  height: 600px;
+}
+.my-card img {
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
